@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickedosoma/)  [![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Patrick-Edosoma) [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011527863148) [![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com) ![](	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+2348135625967)
 
 
-I'm passionate about __Machine Learning__, __Data Science__, __Natural Language processing (NLP)__ and __Generative AI__. 
+I'm passionate about __Machine Learning__, __Deep learning__, __Natural Language processing (NLP)__ and __Generative AI__. 
 
 The speed at which processing power is developing and the ability to process vast amounts of data are driving advances in Artificial Intelligence to unprecedented heights.
 
@@ -22,7 +22,7 @@ I hold a Masters Degree in information technologies  at [__Cyprus international 
 
 I have *2+ years* of experience building and deploying machine learning and deep learning models. 
 
-Furthermore, I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
+Furthermore, I have a strong practical and theoretical experience in the development of __Machine Learning Models (LLMs)__ and __Deep Learning models__. 
 
 🔭 Below are some of the companies I have worked as a data scientist and a machine learning engineer:
 
@@ -31,6 +31,7 @@ Furthermore, I have a strong practical and theoretical experience in the develop
   
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
 
+* *IBM Machine Learning Professional Certificate by [__Coursera__](https://www.coursera.org)*
 * *IBM Data Science Professional Certificate by [__Coursera__](https://www.coursera.org)*
 * *Data science  Certification by [__Utiva school__](https://utiva.io)*
 * *Data Science A-Z: Hands-On Exercises & ChatGPT Prize [2023] by  [__Kirill Eremenko__](https://www.udemy.com/user/kirilleremenko/)*
