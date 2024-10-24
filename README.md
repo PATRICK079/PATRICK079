@@ -34,6 +34,7 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 * *IBM Machine Learning Professional Certificate by [__Coursera__](https://www.coursera.org)*
 * *IBM Data Science Professional Certificate by [__Coursera__](https://www.coursera.org)*
 * *Data science  Certification by [__Utiva school__](https://utiva.io)*
+* Machine Learning A-Z: Hands-On Exercises & ChatGPT Prize [2023] by Kirill Eremenko
 * *Data Science A-Z: Hands-On Exercises & ChatGPT Prize [2023] by  [__Kirill Eremenko__](https://www.udemy.com/user/kirilleremenko/)*
 * *Python for Machine Learning & Data Science Masterclass by [__Jose Portilla__](https://www.udemy.com/user/joseportilla/)*
 * *Complete Tensorflow 2 and Keras Deep Learning Bootcamp by [__Jose Portilla__](https://www.udemy.com/user/joseportilla/)*
