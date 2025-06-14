@@ -24,10 +24,10 @@ I have *2+ years* of experience building and deploying machine learning and deep
 
 Furthermore, I have a strong practical and theoretical experience in the development of __Machine Learning Models (LLMs)__ and __Deep Learning models__. 
 
-🔭 Below are some of the companies I have worked as a data scientist and a machine learning engineer:
-
-* *Algora Limited*
-*  *Utiva*
+<!--🔭 Below are some of the companies I have worked as a data scientist and a machine learning engineer:
+<!-- This is a private comment that won't show in the README preview -->
+<!--* *Algora Limited*
+*  *Utiva* -->
   
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
 
