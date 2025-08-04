@@ -8,10 +8,10 @@ I'm passionate about __Machine Learning__, __Deep learning__, __Natural Language
 
 The speed at which processing power is developing and the ability to process vast amounts of data are driving advances in Artificial Intelligence to unprecedented heights.
 
+<!---
+<img width="504" alt="Screen Shot 2024-06-04 at 22 59 33" src="https://github.com/PATRICK079/PATRICK079/assets/157173680/ca39fa8e-a872-4b3f-b9af-e3af7864e1dd">
 
-# <img width="504" alt="Screen Shot 2024-06-04 at 22 59 33" src="https://github.com/PATRICK079/PATRICK079/assets/157173680/ca39fa8e-a872-4b3f-b9af-e3af7864e1dd">
-
-
+--->
 
 
 
